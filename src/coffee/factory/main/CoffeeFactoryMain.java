@@ -1,6 +1,10 @@
 
 package coffee.factory.main;
 
+interface CoffeeType {
+
+    void Show();
+}
 
 public class CoffeeFactoryMain {
 
